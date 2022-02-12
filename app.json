@@ -1,0 +1,22 @@
+{
+    "name": "Subscribe",
+    "description": "Deploy YouTube on Heroku.",
+    "keywords": ["Subscribe"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad862287-2s11-6464-64w6-safaf675wry"
+        },
+        "AID": {
+            "description": "PellekOfficial",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://www.youtube.com/channel/UCtXuWXsd7TYXwX2ZNLXfojg",
+    "repository": "https://github.com/p4n1k/p4n1k-youtube001",
+    "stack": "container"
+}
